@@ -4,10 +4,8 @@ import time
 import pyrebase
 from config import config
 
-
 DHT_SENSOR = Adafruit_DHT.DHT22
 DHT_PIN = 17
-
 
 firebase = pyrebase.initialize_app(config)
 db = firebase.database()

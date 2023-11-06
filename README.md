@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS DEPRECATED
+
 # Project README
 
 **School**: University of Cebu - Banilad
