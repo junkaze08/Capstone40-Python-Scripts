@@ -1,4 +1,5 @@
 # THIS REPOSITORY IS DEPRECATED
+**Proceed to our new updated code: https://github.com/junkaze08/Capstone40-AquaFusion-Updated**
 
 # Project README
 
